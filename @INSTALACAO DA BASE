@@ -1,0 +1,27 @@
+-----------------------------------------------
+
+Copie E Cole Esses Comandos No Seu Termux
+
+1° Passo = 
+
+termux-setup-storage 
+Da " Y " E Dar Enter
+
+2° Passo =
+extraia o arquivo do bot para memória interna depois de esse comando -> cd /storage/emulated/0/MIX-POINT/MIX-POINT
+
+3° Passo = 
+node comando.js
+
+4° Scanear QrCode
+
+
+NOTA : Caso Você Desligue a Base e Não Sabe Como Ligar Vai No Termux..
+
+1° Digite : cd /LOCALIZACAO DA BASE 
+
+2°  Use : node comando.js
+
+3° Prontinho😊
+
+-----------------------------------------------
